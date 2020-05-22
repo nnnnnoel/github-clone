@@ -1,0 +1,22 @@
+.flex-auto {
+  flex: auto!important;
+}
+.border-bottom {
+  border-bottom: 1px solid #e1e4e8!important;
+}
+@media (min-width: 1012px) {
+  .col-lg-6 {
+    width: 50%;
+  }
+}
+@media (min-width: 768px) {
+  .col-md-8 {
+    width: 66.66667%;
+  }
+}
+.col-12 {
+  width: 100%;
+}
+* {
+  box-sizing: border-box;
+}

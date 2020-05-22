@@ -1,0 +1,55 @@
+@media (min-width: 768px) {
+  .team-left-column {
+    max-width: 350px;
+  }
+}
+.team-left-column {
+  max-width: 100%;
+}
+.pr-3 {
+  padding-right: 16px !important;
+}
+.mt-5 {
+  margin-top: 32px !important;
+}
+.border-bottom {
+  border-bottom: 1px solid #e1e4e8 !important;
+}
+@media (min-width: 1012px) {
+  .col-lg-3 {
+    width: 25%;
+  }
+}
+@media (min-width: 768px) {
+  .col-md-3 {
+    width: 25%;
+  }
+}
+.col-12 {
+  width: 100%;
+}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+main,
+menu,
+nav,
+section {
+  display: block;
+}
+.text-bold {
+  font-weight: 600!important;
+}
+.f5 {
+  font-size: 14px!important;
+}
+.mb-1 {
+  margin-bottom: 4px!important;
+}
+h2 {
+  font-size: 24px;
+}
